@@ -8,11 +8,11 @@ python.vim - Vim as Python IDE
 ````
 
 # Key Maps
-- <F2> - show the NerdTree
-- <F5> - run python code
-- <F7> - run flake8
-- <F8> - show tags list
-- <F9> - show task list
+- F2 - show the NerdTree
+- F5 - run python code
+- F7 - run flake8
+- F8 - show tags list
+- F9 - show task list
 - cs"<> - Works for various file formats to change from "Hello world" to <>Hello</>. 
 - gc - comment out one line
 - gc2 - comment out two line and so on
