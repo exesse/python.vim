@@ -19,4 +19,4 @@ python.vim - Vim as Python IDE
 - :Git or :G - to run any git command in vim
 - :sp {filename} - open a file and split window horizontally
 - :vs {filename} - open a file and split window vertically
-- <ctrl> + <w> + {g\h\j\k} - select window from left\bottom\top\right
+- ctrl + w + {g\h\j\k} - select window from left\bottom\top\right
