@@ -16,7 +16,7 @@ python.vim - Vim as Python IDE
 - cs"<> - Works for various file formats to change from "Hello world" to <>Hello</>. 
 - gc - comment out one line
 - gc2 - comment out two line and so on
-- :Git or :G - to run any git command in vim
+- :Git or :G - to run any git command from vim
 - :sp {filename} - open a file and split window horizontally
 - :vs {filename} - open a file and split window vertically
 - ctrl + w + {g\h\j\k} - select window from left\bottom\top\right
