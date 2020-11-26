@@ -8,7 +8,7 @@ python.vim - Vim as Python IDE
 ````
 
 # Key Maps
-- F2 - show the NerdTree
+- F2 - show NerdTree
 - F5 - run python code
 - F7 - run flake8
 - F8 - show tags list
