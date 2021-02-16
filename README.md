@@ -1,10 +1,13 @@
-python.vim - Vim as Python IDE 
-===
+# python.vim
+Vim as Python IDE 
 
-# Installation
+## Installation
+
+Clone this repository and start the installation by running command below.
 
 ````bash
-./install.sh
+git clone https://github.com/exesse/python.vim.git && cd python.vim
+chmod +x install.sh && bash install.sh
 ````
 
 # Key Maps
@@ -20,3 +23,6 @@ python.vim - Vim as Python IDE
 - :sp {filename} - open a file and split window horizontally
 - :vs {filename} - open a file and split window vertically
 - ctrl + w + {g\h\j\k} - select window from left\bottom\top\right
+
+## Feedback
+Email bug reports, questions, discussions to [hi@exesse.org](mailto:hi@exesse.org).
